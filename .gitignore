@@ -1,0 +1,30 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# Linux
+.directory
+.Trash-*
+
+# Editor / temporary files
+*~
+*.swp
+*.swo
+*.tmp
+.*.sw[a-p]
+\#*\#
+.\#*
+.vscode/
+.idea/
+
+# Local backup files
+*.bak
+*.backup
+*.orig
+*.rej
+*.old
+
+# Logs
+*.log
